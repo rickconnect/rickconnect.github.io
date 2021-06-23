@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to RickConnect.github.io
+
+Hello, 
+
+My name is RA. I am an SDET (Software Development Engineer in Test).
+Software development, testing(all kinds), Azure management, CI/CD, low-level debugging, and build engineering.
+My resume is here:
+
+This repo is home to a couple of my Azure C# projects.
+1. Azure Blob Monitor
+2. Azure Blob Downloader
+
+
+
 
 You can use the [editor on GitHub](https://github.com/rickconnect/rickconnect.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
